@@ -33,5 +33,8 @@ Atualmente foco em aprimorar minhas habilidades como **QA Tester**, com domínio
 **LinkedIn:** [https://www.linkedin.com/in/nikemi](https://www.linkedin.com/in/nikemi)  
 **GitHub:** [https://github.com/Nikemis](https://github.com/Nikemis)
 
+## Repositório de estudos em Cypress
+- [Cypress - do Zero à Nuvem](https://github.com/Nikemis/cypress-do-zero-a-nuvem)
+
 ---
 > _“A qualidade não é um ato, é um hábito.” — Aristóteles_
