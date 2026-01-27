@@ -47,5 +47,3 @@ describe('Busca de produtos no Mercado Livre', () => {
 })
 ```
 ---
-## Repositório de estudos em Cypress
-- [Cypress, do Zero à Nuvem](https://github.com/Nikemis/cypress-do-zero-a-nuvem)
