@@ -11,12 +11,12 @@ Mostrar na prática minhas habilidades como QA, criando cenários de testes reai
 
 ## 👩‍💻 Sobre mim
 Sou apaixonada por tecnologia e qualidade de software.  
-Atualmente foco em aprimorar minhas habilidades como **QA Tester**, com domínio em:
+Atualmente foco em aprimorar minhas habilidades como **QA Tester**, com experiência em:
 - Testes manuais e exploratórios
-- Automação com **Cypress** e **JUnit**
+- Automação com **Cypress**, **JUnit**
 - Testes de API com **Postman**
 - Boas práticas ágeis e documentação de bugs
-
+- Análise de sistemas
 ---
 
 
